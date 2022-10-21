@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+html,body{
+    height: 200px;
+} 
+.conta
+.block{
+    width: 200px;
+    height: 100%;
+    background-color: brown;
+    float: left;
+
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
